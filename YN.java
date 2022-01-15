@@ -24,5 +24,8 @@ public class YN {
         if (c == 'M') {
             System.out.println("What are you? A dog?");
         }
+        if (c == 'S'){
+            System.out.println("Wait a minute... Are you Russian?");
+        }
     }
 }
